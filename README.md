@@ -85,6 +85,7 @@ The following regression models were trained and evaluated:
 | Random Forest Regressor | 0.94        | 0.86       |
 | XGBoost Regressor       | 0.87        | 0.86       |
 | SVR                     | 0.45        | 0.86       |
+| Linear Regression       | 0.82        | 0.81       |
 
 ---
 
