@@ -273,9 +273,9 @@ Replace with your actual results.
 | Insurance | Linear Regression |0.81 |0.40 |0.26 |
 | Insurance | Random Forest |0.85 |0.36 |0.18 |
 | Insurance | XGBoost |0.86 |0.34 |0.18 |
-| Bike Sharing | Random Forest | |0.32 | |
-| Student Score | Random Forest | 0.79|6.50 | |
-| Student Score | XGBoost |0.81 |6.20 | |
+| Bike Sharing | Random Forest  |0.32 |
+| Student Score | Random Forest | 0.79|6.50 
+| Student Score | XGBoost |0.81 |6.20 |
 
 ---
 
@@ -285,12 +285,13 @@ Replace with your actual results.
 
 | Dataset | Model | Accuracy | F1 Score | ROC-AUC |
 |---|---|---:|---:|---:|
-| Titanic | Logistic Regression | | | |
-| Titanic | Random Forest | | | |
-| Heart Disease | Logistic Regression | | | |
-| Heart Disease | Random Forest | | | |
-| Student Pass/Fail | Logistic Regression | | | |
-| Student Pass/Fail | Random Forest | | | |
+| Titanic | Logistic Regression |0.79 |0.79 |0.85 |
+| Titanic | Random Forest |0.85 |0.85 |0.85 |
+| Heart Disease | Logistic Regression |0.80 |0.80 |0.88 |
+| Heart Disease | Random Forest | 0.82|0.82 |0.88 |
+| Student Pass/Fail | Logistic Regression |0.94 |0.94 |0.98 |
+| Student Pass/Fail | Random Forest |1.0 |1.0 |1.0 |
+
 
 ---
 
@@ -298,11 +299,11 @@ Replace with your actual results.
 
 | Dataset | Problem Type | Best Model | Key Metric |
 |---|---|---|---|
-| Insurance | Regression | | |
-| Bike Sharing | Regression | | |
-| Titanic | Classification | | |
-| Student | Classification | | |
-| Heart Disease | Classification | | |
+| Insurance | Regression |XGB Boost |r2 = 0.86 |
+| Bike Sharing | Regression |Random Forest | Log_value score beats |
+| Titanic | Classification |Random Forest |Accuracy = 0.85 |
+| Student | Classification |Linear Regression | Accuracy = 0.94Randon  |
+| Heart Disease | Classification |Random Forest | Accuracy = 0.82 |
 
 ---
 
