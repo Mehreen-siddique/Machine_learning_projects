@@ -273,7 +273,7 @@ Replace with your actual results.
 | Insurance | Linear Regression |0.81 |0.40 |0.26 |
 | Insurance | Random Forest |0.85 |0.36 |0.18 |
 | Insurance | XGBoost |0.86 |0.34 |0.18 |
-| Bike Sharing | Random Forest  |0.32 |
+| Bike Sharing | Random Forest | |0.32 | |
 | Student Score | Random Forest | 0.79|6.50 
 | Student Score | XGBoost |0.81 |6.20 |
 
@@ -362,6 +362,8 @@ The findings show that no single model is universally best and successful machin
 
 **Mehreen Siddique**
 
-GitHub: https://www.github.com/Mehreen-siddique/ 
+GitHub: https://www.github.com/Mehreen-siddique/
+
 Kaggle: https://www.kaggle.com/mehreensiddique 
+
 LinkedIn: https://www.linkedin.com/in/mehreen-siddique/?skipRedirect=true
